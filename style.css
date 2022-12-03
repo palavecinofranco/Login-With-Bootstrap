@@ -1,0 +1,10 @@
+body{
+    background-color: #ffe259;
+    background: linear-gradient(to right, #ffa751, #ffe259);
+}
+
+
+.bg{
+    background-image: url(./images/fotoprueb.jpg);
+    background-position: center center;
+}
